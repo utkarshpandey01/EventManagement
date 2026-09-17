@@ -1,4 +1,4 @@
-# VIT Event Management System
+# Event Management System
 
 A console-based Java application for managing college events, student registrations, event capacity, and organizer operations.
 
