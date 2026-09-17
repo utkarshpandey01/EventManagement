@@ -322,7 +322,7 @@ Key areas covered:
 
 ## 👨‍💻 Project
 
-**VIT Event Management System**
+**Event Management System**
 
 Built as a Java-based academic project with a focus on applying OOP concepts to a practical problem.
 
